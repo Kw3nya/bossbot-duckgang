@@ -1,5 +1,5 @@
 import os, requests
-url = "https://discord.com/api/webhooks/1554496313633017957/uUhW25_zUbY141v6EpORYvdIYBG5s2z5c2AQgkp1_qVieA5taq8Nb7EI1DnR75vom0hL"
+url = "https://discord.com/api/webhooks/1554544291303653517/w2P1ZLiqLV1Gw-m-LckzySKoktMWO5BTcpYrpGkQUuyWLy95lOjo33ZBZ8xAPIkyb6r0"
 print(f"URL existe? {'SIM' if url else 'NAO'}")
 if not url:
     print("ERRO: webhook não configurado!")
